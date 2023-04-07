@@ -22,7 +22,7 @@ header{
 }
 .navigation{
     display: flex;
-    gap: 30px;
+    gap: 10px;
     align-items: center;
 }
 .icons{
@@ -33,7 +33,7 @@ header{
 .first{
     display: flex;
     justify-content: space-around;
-    gap: 70px;
+    gap: 30px;
     list-style: none;
     color: white;
 }
